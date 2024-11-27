@@ -8,3 +8,5 @@ class User {
         this.is_deleted = is_deleted;
     }
 }
+
+module.exports = User;

@@ -1,4 +1,4 @@
-const db = require('../db/database');
+const db = require('../../models/index');
 const User = require('../models/user');
 const { v4: uuidv4 } = require('uuid');
 const bcrypt = require('bcrypt');
@@ -29,9 +29,10 @@ const getUser = async (req, res, next) => {
     try {
         const user = await db.User.findByPk(uuid);
         if (!user || user.is_deleted) {
-            res.status(404).json({ message: 'User not found' });
+            return res.status(404).json({ message: 'User not found' });
+
         }
-        res.status(200).json(user);
+        return res.status(200).json(user);
     } catch (error) {
         next(error);
     }
@@ -43,11 +44,11 @@ const getUsers = async (req, res, next) => {
     limit = limit ? parseInt(limit) : 10;
     const offset = (page - 1) * limit;
     try {
-        const users = await db.User.findAndCountAll({ offset, limit }).where({ is_deleted: false });
+        const users = await db.User.findAndCountAll({ where: { is_deleted: false }, offset, limit });
         if (!users) {
-            res.status(404).json({ message: 'Users not found' });
+            return res.status(404).json({ message: 'Users not found' });
         }
-        res.status(200).json(users);
+        return res.status(200).json(users);
     } catch (error) {
         next(error);
     }
@@ -59,7 +60,7 @@ const updateUser = async (req, res, next) => {
     try {
         const user = await db.User.findByPk(uuid);
         if (!user || user.is_deleted) {
-            res.status(404).json({ message: 'User not found' });
+            return res.status(404).json({ message: 'User not found' });
         }
         if (!name)
             name = user.name;
@@ -83,7 +84,7 @@ const updateUser = async (req, res, next) => {
         user.last_names = last_names;
         user.password = password;
         await user.save();
-        res.status(200).json({ message: 'User updated successfully' });
+        return res.status(200).json({ message: 'User updated successfully' });
     } catch (error) {
         next(error);
     }
@@ -94,11 +95,11 @@ const deleteUser = async (req, res, next) => {
     try {
         const user = await db.User.findByPk(uuid);
         if (!user || user.is_deleted) {
-            res.status(404).json({ message: 'User not found' });
+            return res.status(404).json({ message: 'User not found' });
         }
         user.is_deleted = true;
         await user.save();
-        res.status(200).json({ message: 'User deleted successfully' });
+        return res.status(200).json({ message: 'User deleted successfully' });
     } catch (error) {
         next(error);
     }
