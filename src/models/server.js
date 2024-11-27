@@ -7,6 +7,7 @@ const http = require('http');
 const userRoutes = require('../routes/userRoutes');
 const errorHandler = require('../middleware/errorHandler');
 const db = require('../../models/index');
+const authMiddleware = require('../middleware/authMiddleware');
 
 class Server {
     constructor() {
@@ -28,6 +29,7 @@ class Server {
         this.app.use(logger('dev'));
         this.app.use(helmet());
         this.app.use(compression());
+        this.app.use(authMiddleware);
     }
 
     routes() {
