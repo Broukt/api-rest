@@ -4,8 +4,9 @@ const logger = require('morgan');
 const helmet = require('helmet');
 const compression = require('compression');
 const http = require('http');
-const userRoutes = require('../routes/user');
+const userRoutes = require('../routes/userRoutes');
 const errorHandler = require('../middleware/errorHandler');
+const db = require('../../models/index');
 
 class Server {
     constructor() {
@@ -35,8 +36,15 @@ class Server {
     }
 
     listen() {
-        this.http.listen(this.port, () => {
+        db.sequelize.sync({ force: false }).then(() => {
+            console.log('Database connected');
+        }).catch((error) => {
+            console.error('Database connection error:', error);
+        });
+        this.server.listen(this.port, () => {
             console.log(`Server running on port ${this.port}`);
         });
     }
 }
+
+module.exports = Server;
