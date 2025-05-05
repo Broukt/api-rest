@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Buffalo Chicken Wraps",
+    "sku": "4f6kv2rU1N5HdQqL",
+    "price": 22154,
+    "stock": 839,
+    "isActive": false
+  },
+  {
+    "name": "Ice Pack",
+    "sku": "c8HMZ8v43zNq07bPo",
+    "price": 32222,
+    "stock": 292,
+    "isActive": false
+  },
+  {
+    "name": "Mayonnaise",
+    "sku": "1Dh96Bv9nY2429ILG",
+    "price": 20155,
+    "stock": 987,
+    "isActive": false
+  },
+  {
+    "name": "Pasta (Linguine)",
+    "sku": "7jlM016p21jzu446sM5QZN",
+    "price": 1026,
+    "stock": 796,
+    "isActive": false
+  },
+  {
+    "name": "Microfiber Cleaning Cloths",
+    "sku": "4sXu14XGWyV541Qi0N8GFbdAz72BY",
+    "price": 44984,
+    "stock": 371,
+    "isActive": false
+  },
+  {
+    "name": "Chicken Salad Kit",
+    "sku": "X5Qe5iZ5vF7M8TaCiG8",
+    "price": 9354,
+    "stock": 986,
+    "isActive": true
+  },
+  {
+    "name": "Fitness Resistance Bands Kit",
+    "sku": "vMz811dtw61409Uc8It7lFKj0",
+    "price": 39615,
+    "stock": 852,
+    "isActive": true
+  },
+  {
+    "name": "Digital Voice Recorder",
+    "sku": "zVC13d6NrEsK8JkCH1nFErn4g9j2xK",
+    "price": 32515,
+    "stock": 175,
+    "isActive": true
+  },
+  {
+    "name": "Pineapple Coconut Bars",
+    "sku": "9JAG30yTRKtjM5E4",
+    "price": 8521,
+    "stock": 226,
+    "isActive": false
+  },
+  {
+    "name": "Pistachios",
+    "sku": "GjNP3P83d12ziepjb5M35Roy",
+    "price": 15557,
+    "stock": 741,
+    "isActive": true
+  },
+  {
+    "name": "Smartphone Car Mount with Wireless Charging",
+    "sku": "VQNElRfLFWwR02823875E58U98Q",
+    "price": 2073,
+    "stock": 997,
+    "isActive": false
+  },
+  {
+    "name": "Organic Fruit Salad",
+    "sku": "u3FnRq66NDIa5666hm6K2ATk",
+    "price": 38325,
+    "stock": 941,
+    "isActive": true
+  },
+  {
+    "name": "Breezy Off-The-Shoulder Top",
+    "sku": "c8923sPC6RSEio39vv36FW53V",
+    "price": 43443,
+    "stock": 726,
+    "isActive": true
+  },
+  {
+    "name": "Fitness Resistance Bands Kit",
+    "sku": "ZF4emcTMvbaiHih3c2ES",
+    "price": 37510,
+    "stock": 732,
+    "isActive": false
+  },
+  {
+    "name": "Almond Flour Brownies",
+    "sku": "0D8pVgp8VdP3yM901l0pSsk",
+    "price": 47040,
+    "stock": 934,
+    "isActive": false
+  },
+  {
+    "name": "Leather Biker Jacket",
+    "sku": "D599Rfs8xmG12A8L5D63hn5",
+    "price": 32916,
+    "stock": 763,
+    "isActive": false
+  },
+  {
+    "name": "Portable Pet Water Bottle",
+    "sku": "XbI4XMq4XLyu9sBWWeKzu7X7",
+    "price": 6866,
+    "stock": 666,
+    "isActive": false
+  },
+  {
+    "name": "Beef Taco Skillet",
+    "sku": "5Cyfcv53eMI5tMwM0M4Wr",
+    "price": 8821,
+    "stock": 957,
+    "isActive": true
+  },
+  {
+    "name": "Travel Mug with Leak-Proof Lid",
+    "sku": "tnL64V2Ij92nh188mPfv",
+    "price": 35409,
+    "stock": 930,
+    "isActive": true
+  },
+  {
+    "name": "Teriyaki Chicken Wings",
+    "sku": "5Kox4b2HPFYWwAJliKvqsgHFC34th5",
+    "price": 13472,
+    "stock": 64,
+    "isActive": false
+  },
+  {
+    "name": "Paint By Numbers Kit",
+    "sku": "7d2731awV7x6hZ6rmf9",
+    "price": 43079,
+    "stock": 83,
+    "isActive": false
+  },
+  {
+    "name": "Diced Tomatoes (canned)",
+    "sku": "DHoum451UfxR450JQ4uPS",
+    "price": 36797,
+    "stock": 729,
+    "isActive": true
+  },
+  {
+    "name": "Coconut Curry Chicken",
+    "sku": "sHhn74Sg00QocnF71W1m",
+    "price": 41196,
+    "stock": 460,
+    "isActive": false
+  },
+  {
+    "name": "Digital Voice Recorder",
+    "sku": "c8eaczPkdPrW9h5BE",
+    "price": 22556,
+    "stock": 237,
+    "isActive": false
+  },
+  {
+    "name": "Frozen Hash Browns",
+    "sku": "4QKDG6a8vKTIIiXd9BJ8F2ef6Wvkq",
+    "price": 23130,
+    "stock": 130,
+    "isActive": true
+  },
+  {
+    "name": "Outdoor String Lights",
+    "sku": "Gp500R6HoqJc21y5x2PH",
+    "price": 39018,
+    "stock": 276,
+    "isActive": true
+  },
+  {
+    "name": "Skincare Fridge",
+    "sku": "F3V4791oYLlwbIE",
+    "price": 30108,
+    "stock": 788,
+    "isActive": true
+  },
+  {
+    "name": "Travel Makeup Organizer",
+    "sku": "sIS6bz7z8d2drvIXNMM9c",
+    "price": 32368,
+    "stock": 263,
+    "isActive": true
+  },
+  {
+    "name": "Sriracha Chili Sauce",
+    "sku": "btKt19BrUC600nC4Ed10hgQ",
+    "price": 18007,
+    "stock": 853,
+    "isActive": true
+  },
+  {
+    "name": "Ergonomic Gaming Chair",
+    "sku": "MNMd7Hsz06n793i",
+    "price": 41391,
+    "stock": 601,
+    "isActive": false
+  },
+  {
+    "name": "Peach Halves (canned)",
+    "sku": "DiecCnqraobcZ3wbjne8F7hd",
+    "price": 14997,
+    "stock": 105,
+    "isActive": false
+  },
+  {
+    "name": "Gluten-Free Bread",
+    "sku": "r5R4ITeOApJ027MXTI2SHu7I",
+    "price": 12222,
+    "stock": 528,
+    "isActive": false
+  },
+  {
+    "name": "Electric Pressure Washer",
+    "sku": "FLI5n1ittY8Bw50452cv9Zb4Kl1tX",
+    "price": 9426,
+    "stock": 655,
+    "isActive": false
+  },
+  {
+    "name": "Kids' Educational Tablet",
+    "sku": "Cy3ekj4PUG80R794O1k44m",
+    "price": 9726,
+    "stock": 673,
+    "isActive": false
+  },
+  {
+    "name": "Spicy Tuna Rolls",
+    "sku": "vM9M2Qq1kSAINiVY11W7Gn",
+    "price": 29611,
+    "stock": 625,
+    "isActive": false
+  },
+  {
+    "name": "Caramel Apple Taffy",
+    "sku": "4s5Pbyk8L0UE2z93B99G",
+    "price": 31479,
+    "stock": 386,
+    "isActive": false
+  },
+  {
+    "name": "Nature Explorer Lens Kit",
+    "sku": "6nwwzGJUO1SXA3aM5S92ozAO0",
+    "price": 46356,
+    "stock": 246,
+    "isActive": true
+  },
+  {
+    "name": "Tabletop Fire Pit",
+    "sku": "Q2Ct7K1V6uaW4hIzXJG0r5O0",
+    "price": 12203,
+    "stock": 399,
+    "isActive": false
+  },
+  {
+    "name": "Sporty Slide Sandals",
+    "sku": "43C748b0x3901DBUZm1C0",
+    "price": 29153,
+    "stock": 178,
+    "isActive": false
+  },
+  {
+    "name": "Corn Tortillas",
+    "sku": "DAK29J35l6j7bX3PW1kL4",
+    "price": 32362,
+    "stock": 734,
+    "isActive": false
+  },
+  {
+    "name": "Pineapple Salsa",
+    "sku": "76f3evInPByuJQz70drZf6U0u7l",
+    "price": 28024,
+    "stock": 38,
+    "isActive": false
+  },
+  {
+    "name": "Baked Falafel Balls",
+    "sku": "8wAK73hOR134fZ0",
+    "price": 20835,
+    "stock": 678,
+    "isActive": true
+  },
+  {
+    "name": "Homestyle Chicken Noodle Soup",
+    "sku": "Q3l5K89ajc9LV33tD40H",
+    "price": 46577,
+    "stock": 1000,
+    "isActive": false
+  },
+  {
+    "name": "LED Under Cabinet Lighting",
+    "sku": "4GE79LpQCm5ryj3WpNUbn52",
+    "price": 42971,
+    "stock": 920,
+    "isActive": false
+  },
+  {
+    "name": "LED Table Lamp",
+    "sku": "vacGGmDbokct10rf2q6UDsF08",
+    "price": 3926,
+    "stock": 88,
+    "isActive": true
+  },
+  {
+    "name": "Savory Quinoa Pudding",
+    "sku": "wr1z18h559np69um7rO9",
+    "price": 1623,
+    "stock": 323,
+    "isActive": true
+  },
+  {
+    "name": "Striped Long Sleeve Shirt",
+    "sku": "C7zX5q9Y5kfTF6OKktNYl2r5",
+    "price": 48637,
+    "stock": 216,
+    "isActive": false
+  },
+  {
+    "name": "Electric Ice Cream Maker",
+    "sku": "yPH1B0eEOvXYL9VmWAB688lB2",
+    "price": 43493,
+    "stock": 264,
+    "isActive": true
+  },
+  {
+    "name": "Sporty Slide Sandals",
+    "sku": "WQm38lJ9idL0S9qLvC0o27q7",
+    "price": 9915,
+    "stock": 701,
+    "isActive": false
+  },
+  {
+    "name": "Avocado Oil Mayo",
+    "sku": "dbZR8K9WZ6dSv89414FLd7D",
+    "price": 1099,
+    "stock": 761,
+    "isActive": true
+  },
+  {
+    "name": "Bock Beer Mustard",
+    "sku": "kgeTEcAS6QBdN64",
+    "price": 37128,
+    "stock": 386,
+    "isActive": true
+  },
+  {
+    "name": "Dark Chocolate Tart",
+    "sku": "tTx76imIl9L3kza9cJsbPA4MbnwVPh",
+    "price": 25399,
+    "stock": 324,
+    "isActive": true
+  },
+  {
+    "name": "Compact Electric Kettle",
+    "sku": "mP1629j8hLVED52k6r90RtEO86",
+    "price": 47918,
+    "stock": 63,
+    "isActive": false
+  },
+  {
+    "name": "Wall Planner",
+    "sku": "0PEp1bg4y5BPw2d1MBV3q",
+    "price": 28408,
+    "stock": 134,
+    "isActive": false
+  },
+  {
+    "name": "Peach & Mango Salsa",
+    "sku": "Tpk8C1LAeI491GRj31L",
+    "price": 14845,
+    "stock": 917,
+    "isActive": false
+  },
+  {
+    "name": "Comfy Slippers",
+    "sku": "hdP7V18lOLHW2ZL",
+    "price": 44790,
+    "stock": 530,
+    "isActive": false
+  },
+  {
+    "name": "Multi-Function Smartphone Holder",
+    "sku": "eRM7fcT5q7v00v8D03H0j1Z06",
+    "price": 2211,
+    "stock": 730,
+    "isActive": false
+  },
+  {
+    "name": "Almond Flour Bread Mix",
+    "sku": "OE9UI5clN0XYcA8",
+    "price": 2930,
+    "stock": 899,
+    "isActive": true
+  },
+  {
+    "name": "Digital Photo Frame",
+    "sku": "FYyyAru0P1Q5teBL1JA4wxSjWQK7Mr",
+    "price": 23016,
+    "stock": 294,
+    "isActive": false
+  },
+  {
+    "name": "Coconut Yogurt",
+    "sku": "I8I19y62n67FNcR64YP9Ab9dvK2S",
+    "price": 49134,
+    "stock": 141,
+    "isActive": true
+  },
+  {
+    "name": "Chiffon Blouse",
+    "sku": "8joORl9T26mGL0Og30cLSt8439FnV",
+    "price": 46246,
+    "stock": 214,
+    "isActive": true
+  },
+  {
+    "name": "Luxury Yoga Mat",
+    "sku": "245o7tnkfHF7mWM5OFztyr59V1xL",
+    "price": 2106,
+    "stock": 123,
+    "isActive": true
+  },
+  {
+    "name": "Premium Flashlight",
+    "sku": "fUuft2F4Xpeg1Dgk",
+    "price": 34560,
+    "stock": 165,
+    "isActive": true
+  },
+  {
+    "name": "Couscous Mix",
+    "sku": "J851AG8Xb45JO5D4DLS2tJp",
+    "price": 4551,
+    "stock": 239,
+    "isActive": false
+  },
+  {
+    "name": "Classic Watch",
+    "sku": "J6XxYllpGFiN2LQ9u9y8j9q4DRB",
+    "price": 30995,
+    "stock": 481,
+    "isActive": true
+  },
+  {
+    "name": "Sweet Chili Sauce",
+    "sku": "e5ofKVpDv9SlCeHX",
+    "price": 28009,
+    "stock": 612,
+    "isActive": false
+  },
+  {
+    "name": "Truffle Parmesan Fries",
+    "sku": "L06boCv6hbkm7BoRW7USY8eBr4",
+    "price": 13220,
+    "stock": 112,
+    "isActive": true
+  },
+  {
+    "name": "Rustic Italian Bread",
+    "sku": "689iGg94b6fpy6sP8HQ0uzd741c0eN",
+    "price": 35123,
+    "stock": 775,
+    "isActive": false
+  },
+  {
+    "name": "Pasta Sauce Mix",
+    "sku": "07QK77B8kXNHnGaf1",
+    "price": 26236,
+    "stock": 871,
+    "isActive": false
+  },
+  {
+    "name": "Habanero Hot Sauce",
+    "sku": "4DN5MAHe2hyw4q0x6vP49x6e49",
+    "price": 47823,
+    "stock": 209,
+    "isActive": false
+  },
+  {
+    "name": "Yoga Mat",
+    "sku": "7nPCR9MAHX1jQyx8s2Lg",
+    "price": 34006,
+    "stock": 360,
+    "isActive": true
+  },
+  {
+    "name": "Camera Tripod",
+    "sku": "DDnk6OHBd51aOulEEO6Kj6fEcDp5r5",
+    "price": 29590,
+    "stock": 769,
+    "isActive": true
+  },
+  {
+    "name": "Beet Salad",
+    "sku": "44Tgo1e0HSB3aD4H25UL",
+    "price": 1731,
+    "stock": 230,
+    "isActive": true
+  },
+  {
+    "name": "Wireless Printer",
+    "sku": "V4HaJR1OO4B5d4nr",
+    "price": 4046,
+    "stock": 63,
+    "isActive": false
+  },
+  {
+    "name": "Beef Chili",
+    "sku": "V21s4QN13K3WzBVJvmD",
+    "price": 9404,
+    "stock": 890,
+    "isActive": false
+  },
+  {
+    "name": "Classic Watch",
+    "sku": "RIzL723jHDj2r7D348F7B",
+    "price": 45177,
+    "stock": 615,
+    "isActive": false
+  },
+  {
+    "name": "Folding Table",
+    "sku": "3CEew3vJT4I49Jli1n2b6CRKStuvxt",
+    "price": 17360,
+    "stock": 11,
+    "isActive": false
+  },
+  {
+    "name": "Spinach and Feta Wraps",
+    "sku": "m2OPQ75csofu91Zjr9Egx04a4",
+    "price": 16761,
+    "stock": 585,
+    "isActive": true
+  },
+  {
+    "name": "Handcrafted Wooden Coasters",
+    "sku": "dgaY2GFx8k7vZm3kA8380fe9d1",
+    "price": 49129,
+    "stock": 6,
+    "isActive": true
+  },
+  {
+    "name": "Outdoor Adventure Kit",
+    "sku": "6xRR8PWxypHk1Z4b1fW6lYDekh9dJP",
+    "price": 24111,
+    "stock": 951,
+    "isActive": false
+  },
+  {
+    "name": "Chicken Fajita Kit",
+    "sku": "6T3C0z3KUb4B5Ru42197Y",
+    "price": 36347,
+    "stock": 389,
+    "isActive": true
+  },
+  {
+    "name": "Wireless Charger Stand",
+    "sku": "2KU6HMli9K36mqH69arG53h1J",
+    "price": 2441,
+    "stock": 257,
+    "isActive": false
+  },
+  {
+    "name": "Smoked Salmon",
+    "sku": "z895D6t0XBG51MnnN8KeXAfyAqM74",
+    "price": 17875,
+    "stock": 315,
+    "isActive": true
+  },
+  {
+    "name": "Garlic and Herb Rub",
+    "sku": "5fW5SqocO45dYCN7",
+    "price": 2784,
+    "stock": 345,
+    "isActive": false
+  },
+  {
+    "name": "Elegant Lace Dress",
+    "sku": "w4GdBfM2vZp69aoF1Q9wX7ImY61zdb",
+    "price": 47110,
+    "stock": 873,
+    "isActive": false
+  },
+  {
+    "name": "Cinnamon Spiced Almonds",
+    "sku": "TkI7J33fya04yCu7K85",
+    "price": 42906,
+    "stock": 87,
+    "isActive": true
+  },
+  {
+    "name": "Smart Thermos",
+    "sku": "63GW0WhTlT8IMHy8Co2rjd",
+    "price": 32011,
+    "stock": 546,
+    "isActive": false
+  },
+  {
+    "name": "Electric Heating Pad",
+    "sku": "puBu4Ks3hCbQuksESNr39xHDT90",
+    "price": 18657,
+    "stock": 488,
+    "isActive": true
+  },
+  {
+    "name": "Sea Salt Tortilla Chips",
+    "sku": "L8xQs0lkri2slgf2HUw76N",
+    "price": 31361,
+    "stock": 19,
+    "isActive": false
+  },
+  {
+    "name": "Garlic Herb Seasoning",
+    "sku": "2NdawD7Uq59Maei916pl2S8Y4m7t",
+    "price": 17141,
+    "stock": 299,
+    "isActive": false
+  },
+  {
+    "name": "Wooden Toy Train Set",
+    "sku": "N9s5lQt9Yk3lEmf7PO4G1sD7g2Z7",
+    "price": 31836,
+    "stock": 245,
+    "isActive": false
+  },
+  {
+    "name": "Chewy Granola Bars",
+    "sku": "0P348n2HVlE1Cd8U8f",
+    "price": 46095,
+    "stock": 321,
+    "isActive": false
+  },
+  {
+    "name": "Garden Tool Set",
+    "sku": "6ygp1dBl5mnRbKdMoNdD2tr6SBzzG",
+    "price": 47547,
+    "stock": 14,
+    "isActive": true
+  },
+  {
+    "name": "Guitar Tuner",
+    "sku": "7cw0eG14z2eW3zW1BA0A0kU2U0hH",
+    "price": 9812,
+    "stock": 173,
+    "isActive": true
+  },
+  {
+    "name": "Peas (frozen)",
+    "sku": "2iR9ek4wN18J10h9O82",
+    "price": 5845,
+    "stock": 756,
+    "isActive": true
+  },
+  {
+    "name": "Smart Home Security Camera",
+    "sku": "9j8b5Hf39TDJpLAvpFMH89KZm5Hb0",
+    "price": 38623,
+    "stock": 975,
+    "isActive": false
+  },
+  {
+    "name": "Bamboo Bathtub Caddy",
+    "sku": "250ieZxcw5D7XAtY6f0c4FPS1",
+    "price": 28467,
+    "stock": 16,
+    "isActive": true
+  },
+  {
+    "name": "Beach Cover-Up",
+    "sku": "V9bktDbFWv8DI29hbm254c97tnETk",
+    "price": 1705,
+    "stock": 282,
+    "isActive": false
+  },
+  {
+    "name": "Mini Hand Gesture Drone",
+    "sku": "M5nJiKSkYNQUsTOM51",
+    "price": 41982,
+    "stock": 596,
+    "isActive": true
+  },
+  {
+    "name": "Thai Peanut Noodles",
+    "sku": "1Tnt7nRgdB4R22fuC2v602bAX",
+    "price": 30148,
+    "stock": 72,
+    "isActive": true
+  },
+  {
+    "name": "Honey Sesame Chicken Mix",
+    "sku": "ker5bl73dHZa7x8CrF",
+    "price": 48693,
+    "stock": 553,
+    "isActive": false
+  },
+  {
+    "name": "Travel Organizer",
+    "sku": "PNrurLK8TCywH6pV4236rl",
+    "price": 36990,
+    "stock": 945,
+    "isActive": true
+  },
+  {
+    "name": "Herbal Tea Set",
+    "sku": "RNJtCKD90BLheY3ZdRg8Y",
+    "price": 32688,
+    "stock": 753,
+    "isActive": true
+  },
+  {
+    "name": "Apricot Jam",
+    "sku": "50MyrJgs5g5tgU7",
+    "price": 29460,
+    "stock": 653,
+    "isActive": true
+  },
+  {
+    "name": "Spaghetti and Meatball Dinner Kit",
+    "sku": "KlpSXUl70gBF9h04rE",
+    "price": 17765,
+    "stock": 611,
+    "isActive": false
+  },
+  {
+    "name": "Kettle Corn Popcorn",
+    "sku": "U87SmgkQ0WzT8QZ3lOdF54mf61J",
+    "price": 48376,
+    "stock": 78,
+    "isActive": false
+  },
+  {
+    "name": "Samoas Cookie Mix",
+    "sku": "IhvJm6528l0kft05e0eG",
+    "price": 38474,
+    "stock": 190,
+    "isActive": false
+  },
+  {
+    "name": "Cauliflower Pizza Crust",
+    "sku": "XegX87hVyiBc227",
+    "price": 25377,
+    "stock": 898,
+    "isActive": true
+  },
+  {
+    "name": "Himalayan Salt Grinder",
+    "sku": "0iKqTaUr923eX4N953tV6ysgz50u",
+    "price": 12854,
+    "stock": 924,
+    "isActive": false
+  },
+  {
+    "name": "Weighted Jump Rope with Counter",
+    "sku": "56c1I5p4ugLtId60Qw53U2u",
+    "price": 40402,
+    "stock": 480,
+    "isActive": false
+  },
+  {
+    "name": "Wireless Earbuds Case",
+    "sku": "XB6dTZTKlPTTOipSXsDB9LTIvLkkD",
+    "price": 2775,
+    "stock": 47,
+    "isActive": true
+  },
+  {
+    "name": "Honey Almond Granola Bars",
+    "sku": "8JuX2j6O66oGX3PaN",
+    "price": 15412,
+    "stock": 594,
+    "isActive": true
+  },
+  {
+    "name": "Maple Pecan Granola",
+    "sku": "0K8bT77Pj5H5FSrTR5K3TJhwQxUn",
+    "price": 11053,
+    "stock": 553,
+    "isActive": true
+  },
+  {
+    "name": "Tennis Racket",
+    "sku": "Bfmlagttt8720940J1r9i",
+    "price": 23404,
+    "stock": 530,
+    "isActive": false
+  },
+  {
+    "name": "Cranberry Lime Sparkling Water",
+    "sku": "tvJKkUj1Ja1BRr7",
+    "price": 43177,
+    "stock": 19,
+    "isActive": false
+  },
+  {
+    "name": "Electric Fondue Pot",
+    "sku": "0k9K0HPI12ODceGea4m0A1S67710",
+    "price": 32082,
+    "stock": 428,
+    "isActive": true
+  },
+  {
+    "name": "Black Olives",
+    "sku": "CCBs098rX3pJTU2p",
+    "price": 18819,
+    "stock": 212,
+    "isActive": true
+  },
+  {
+    "name": "Smoked Paprika",
+    "sku": "BDQLcClajw346t7n0iv5",
+    "price": 48013,
+    "stock": 772,
+    "isActive": true
+  },
+  {
+    "name": "Fitness Mat",
+    "sku": "1VZHTCdX8z5dZNtOAcyY7KxUIP5",
+    "price": 1752,
+    "stock": 232,
+    "isActive": true
+  },
+  {
+    "name": "Dual Function Electric Skillet",
+    "sku": "iHN4iCpDKpijtYYBJXy91Oa6gZoxPN",
+    "price": 44273,
+    "stock": 270,
+    "isActive": false
+  },
+  {
+    "name": "Fleece Hoodie",
+    "sku": "E8kqTAlly028XmXLYQ",
+    "price": 31143,
+    "stock": 384,
+    "isActive": false
+  },
+  {
+    "name": "Outdoor Camping Lantern",
+    "sku": "dp2m9oLZ1hHqi8JS9a28rSy",
+    "price": 38651,
+    "stock": 671,
+    "isActive": false
+  },
+  {
+    "name": "Jump Rope with Counter",
+    "sku": "y9iprCC0dGtXz87",
+    "price": 25186,
+    "stock": 649,
+    "isActive": false
+  },
+  {
+    "name": "Himalayan Salt Grinder",
+    "sku": "V2BQ95f9W6r6icXT",
+    "price": 41075,
+    "stock": 649,
+    "isActive": true
+  },
+  {
+    "name": "Peanut Butter Pretzel Bites",
+    "sku": "8K9lhB9nVA76N4qN7SeKX57K",
+    "price": 14052,
+    "stock": 433,
+    "isActive": false
+  },
+  {
+    "name": "Athletic Compression Tights",
+    "sku": "q07i5LsGj9T7iSgFkBh234M",
+    "price": 7011,
+    "stock": 975,
+    "isActive": true
+  },
+  {
+    "name": "Denim Jacket",
+    "sku": "PxnLrS4iy0V7Ex71EZ5",
+    "price": 26970,
+    "stock": 566,
+    "isActive": false
+  },
+  {
+    "name": "Safety Pin Dispenser",
+    "sku": "nMOe6Z5Vf8DcFz99Jm3722xIjWJK",
+    "price": 14387,
+    "stock": 753,
+    "isActive": false
+  },
+  {
+    "name": "Pumpkin Ice Cream",
+    "sku": "KbNfOr01N07oYXXpfwEK9t",
+    "price": 6262,
+    "stock": 645,
+    "isActive": false
+  },
+  {
+    "name": "Sweet Potatoes",
+    "sku": "vV9pv6ppRoMN32IuSz",
+    "price": 18726,
+    "stock": 592,
+    "isActive": true
+  },
+  {
+    "name": "Honey Mustard Sauce",
+    "sku": "46ca523mcT477Lo0Y",
+    "price": 10742,
+    "stock": 50,
+    "isActive": false
+  },
+  {
+    "name": "Vegetable Samosas",
+    "sku": "ym7J0ihDDakYN33nmsld9j",
+    "price": 3881,
+    "stock": 837,
+    "isActive": true
+  },
+  {
+    "name": "Classic Vanilla Fudge",
+    "sku": "5Y8TT9I8cqXKT6p0voou21",
+    "price": 48334,
+    "stock": 376,
+    "isActive": true
+  },
+  {
+    "name": "Teriyaki Sauce",
+    "sku": "U4F6DrP75MHoK6PzI5gO5Vj8s",
+    "price": 43644,
+    "stock": 246,
+    "isActive": true
+  },
+  {
+    "name": "Garlic Butter Sauce",
+    "sku": "2hMEvUdWk7G72THmBAISPJ8sV",
+    "price": 7508,
+    "stock": 866,
+    "isActive": true
+  },
+  {
+    "name": "Graphic Print Leggings",
+    "sku": "QjkKRg6lYCjZG91FEJ2890ok48f",
+    "price": 33232,
+    "stock": 408,
+    "isActive": false
+  },
+  {
+    "name": "Caribbean Jerk Marinade",
+    "sku": "WrzHad2nvW68t94r8vbt0RBkxN",
+    "price": 46462,
+    "stock": 21,
+    "isActive": true
+  },
+  {
+    "name": "Home Brewing Starter Kit",
+    "sku": "b45OKQXp91E706TDFsy9",
+    "price": 8549,
+    "stock": 33,
+    "isActive": true
+  },
+  {
+    "name": "Over-The-Door Shoe Organizer",
+    "sku": "15n0ZeE694Ks8iXV6hGgoGS",
+    "price": 19568,
+    "stock": 468,
+    "isActive": false
+  },
+  {
+    "name": "Creamy Tomato Basil Soup",
+    "sku": "g36n86agTpP7WArhkYHQ2dE8",
+    "price": 28222,
+    "stock": 669,
+    "isActive": true
+  },
+  {
+    "name": "Digital Thermostat",
+    "sku": "EF917faPQoS90TM58UeU2eu62",
+    "price": 39102,
+    "stock": 258,
+    "isActive": false
+  },
+  {
+    "name": "Shoe Organizer",
+    "sku": "v1Ktjl5u8qwB8s6oYtH3nn0wETvP",
+    "price": 8504,
+    "stock": 701,
+    "isActive": false
+  },
+  {
+    "name": "Wireless Earbud Silicone Covers",
+    "sku": "tByLN7IJP0QWpXnK8rFR9",
+    "price": 21265,
+    "stock": 124,
+    "isActive": true
+  },
+  {
+    "name": "Vegan chocolate chip cookies",
+    "sku": "6uT0gbpShqEEp2V9ebHw6HBg47Vv6",
+    "price": 43164,
+    "stock": 180,
+    "isActive": true
+  },
+  {
+    "name": "Spinach and Ricotta Ravioli",
+    "sku": "4fK46h9moDat3nA",
+    "price": 2884,
+    "stock": 226,
+    "isActive": false
+  },
+  {
+    "name": "Field Journal",
+    "sku": "aN87GLX6TFk9i2RIcRCLTI",
+    "price": 9074,
+    "stock": 666,
+    "isActive": true
+  },
+  {
+    "name": "Magnetic Phone Case",
+    "sku": "UV8C6o3T74k7eDD1wiV445r51MGrX",
+    "price": 13062,
+    "stock": 464,
+    "isActive": true
+  },
+  {
+    "name": "Spicy Beef Taco Mix",
+    "sku": "4Z3rguo4LC11z1j27tZjk2P",
+    "price": 7215,
+    "stock": 64,
+    "isActive": false
+  },
+  {
+    "name": "Multi-Layer Food Steamer",
+    "sku": "o2ORr00PAo0IGL4arJYj6wlZ6F0GHk",
+    "price": 24972,
+    "stock": 578,
+    "isActive": true
+  },
+  {
+    "name": "Electric Can Opener",
+    "sku": "50i6N98QGeF6drA9",
+    "price": 26958,
+    "stock": 599,
+    "isActive": false
+  },
+  {
+    "name": "LED Disco Ball Light",
+    "sku": "802aI5k97E0Qg88j",
+    "price": 23730,
+    "stock": 194,
+    "isActive": true
+  },
+  {
+    "name": "Foldable Electric Scooter",
+    "sku": "KYbw4I9h4d6NiWo3h9e8XQb0ms4P",
+    "price": 45697,
+    "stock": 399,
+    "isActive": false
+  },
+  {
+    "name": "Carrot Ginger Soup",
+    "sku": "fA5Mcl1K90urgrrNKg2",
+    "price": 11759,
+    "stock": 89,
+    "isActive": false
+  },
+  {
+    "name": "Dish Rack",
+    "sku": "B5k9oaou78sGqO0jdcdxy6d",
+    "price": 4771,
+    "stock": 46,
+    "isActive": false
+  },
+  {
+    "name": "Ethical Wool Scarf",
+    "sku": "y8R3Kt3M320I6FFjH09sgul7Ftm1",
+    "price": 29326,
+    "stock": 399,
+    "isActive": false
+  },
+  {
+    "name": "Buffalo Stilton Cheese",
+    "sku": "c2MP7MyT5bjMgtq6",
+    "price": 48183,
+    "stock": 526,
+    "isActive": true
+  },
+  {
+    "name": "Travel Size Toiletry Bottles",
+    "sku": "6P102undjxm93rcnwA93J2MHw8c",
+    "price": 9187,
+    "stock": 800,
+    "isActive": false
+  },
+  {
+    "name": "Greek Feta Cheese",
+    "sku": "01n43g3Iv5q680euBjy609J",
+    "price": 19879,
+    "stock": 201,
+    "isActive": true
+  },
+  {
+    "name": "Compact Shoe Rack",
+    "sku": "Lsb93eRXCfXHI5p5f68V99brYzJDK3",
+    "price": 26995,
+    "stock": 281,
+    "isActive": true
+  },
+  {
+    "name": "Teriyaki Beef Jerky",
+    "sku": "IfP824q27kWpQ3GQoyrxW7xEY0B5",
+    "price": 23601,
+    "stock": 376,
+    "isActive": true
+  },
+  {
+    "name": "Organic Sweet Potatoes",
+    "sku": "i675336bIG5z0VBSJTYYIG",
+    "price": 29193,
+    "stock": 331,
+    "isActive": true
+  },
+  {
+    "name": "Smartphone Projector",
+    "sku": "nfVtsa11hIOadAxBpmFwk",
+    "price": 42641,
+    "stock": 764,
+    "isActive": true
+  },
+  {
+    "name": "Natural Fruit Snacks",
+    "sku": "3CbUY1C33DuRaMiFo31rZa",
+    "price": 1428,
+    "stock": 616,
+    "isActive": true
+  },
+  {
+    "name": "Microfiber Cleaning Cloths",
+    "sku": "CL7gX960HD70l968T7J9",
+    "price": 26907,
+    "stock": 402,
+    "isActive": false
+  },
+  {
+    "name": "Veggie Chips Variety Pack",
+    "sku": "N78B0lB26973Au0rg",
+    "price": 42177,
+    "stock": 575,
+    "isActive": true
+  },
+  {
+    "name": "Stylish Combat Boots",
+    "sku": "23hvg2jypeWrY56Ance62D3g3R3Y",
+    "price": 45057,
+    "stock": 281,
+    "isActive": true
+  },
+  {
+    "name": "Mediterranean Chickpea Bowl",
+    "sku": "D48IJ86W7k76p4G4",
+    "price": 7075,
+    "stock": 210,
+    "isActive": false
+  },
+  {
+    "name": "Outdoor Camping Hammock",
+    "sku": "9UT1W736iM02IiN9dZH4Zc5",
+    "price": 12353,
+    "stock": 571,
+    "isActive": true
+  },
+  {
+    "name": "Oversized Denim Shirt",
+    "sku": "433E1MRXgjtFiJAm7Mz",
+    "price": 19153,
+    "stock": 223,
+    "isActive": true
+  },
+  {
+    "name": "Cauliflower Crust Pizza",
+    "sku": "3QrdrIBVUc26sLS196Naz",
+    "price": 40720,
+    "stock": 375,
+    "isActive": true
+  },
+  {
+    "name": "Creative Puzzle Game",
+    "sku": "Of2Ua8w26uAD30J261H",
+    "price": 14143,
+    "stock": 551,
+    "isActive": false
+  },
+  {
+    "name": "LED Christmas Tree Lights",
+    "sku": "yyWD6l2R1v0WUXZlH",
+    "price": 48554,
+    "stock": 792,
+    "isActive": false
+  },
+  {
+    "name": "Travel Laundry Bag",
+    "sku": "QTmnYpAlb4AdD4lab2Q0EAd0HSaZtL",
+    "price": 22989,
+    "stock": 520,
+    "isActive": false
+  },
+  {
+    "name": "Smart Plug",
+    "sku": "50yIQrOlA1O29ASzK3E61A",
+    "price": 6853,
+    "stock": 169,
+    "isActive": true
+  },
+  {
+    "name": "Personal Blender with Cups",
+    "sku": "1CEnO0ThGJp3hL64",
+    "price": 4850,
+    "stock": 384,
+    "isActive": true
+  },
+  {
+    "name": "Sweet Potato & Kale Hash",
+    "sku": "hbjV7PWONjtNweFiFVj34P6AnunS8z",
+    "price": 8550,
+    "stock": 524,
+    "isActive": false
+  },
+  {
+    "name": "Pet Bed with Removable Cover",
+    "sku": "H5az5f86873J4w4",
+    "price": 48804,
+    "stock": 83,
+    "isActive": true
+  },
+  {
+    "name": "Sweet Potato Mash",
+    "sku": "CF4auvUf4im37Trzmp9w5C",
+    "price": 20218,
+    "stock": 154,
+    "isActive": true
+  },
+  {
+    "name": "Wall Calendar",
+    "sku": "a6qX7ppxVc1y7FJ",
+    "price": 40775,
+    "stock": 755,
+    "isActive": true
+  },
+  {
+    "name": "Frozen Mixed Berries",
+    "sku": "v9BgcVV0zYGfBKvm0u5cl9KWJ4ll",
+    "price": 38022,
+    "stock": 603,
+    "isActive": true
+  },
+  {
+    "name": "Athletic Sports Bra",
+    "sku": "H3TP0ATJbzai6zehDR5pBv4DQQd44n",
+    "price": 26486,
+    "stock": 963,
+    "isActive": false
+  },
+  {
+    "name": "Avocado Lime Dressing",
+    "sku": "v4YmJjcb5ze6FShP",
+    "price": 35030,
+    "stock": 839,
+    "isActive": false
+  },
+  {
+    "name": "Tea Infuser Bottle",
+    "sku": "28maYGm8XmXRq7165Pi",
+    "price": 12404,
+    "stock": 205,
+    "isActive": true
+  },
+  {
+    "name": "Artisan Bread",
+    "sku": "JfwUv0bo2YzAn5338kLmg9",
+    "price": 5973,
+    "stock": 35,
+    "isActive": true
+  },
+  {
+    "name": "Smartphone Camera Lens Kit",
+    "sku": "DBBtgqT3w16YOdG1gCYIl8",
+    "price": 5917,
+    "stock": 546,
+    "isActive": true
+  },
+  {
+    "name": "Luxury Bath Robe",
+    "sku": "huCoQL2Bn7cgRCp",
+    "price": 11313,
+    "stock": 140,
+    "isActive": false
+  },
+  {
+    "name": "Compact Portable Grill",
+    "sku": "8uw6p801Mc9IW97y3",
+    "price": 19246,
+    "stock": 637,
+    "isActive": true
+  },
+  {
+    "name": "Foot Massager Machine",
+    "sku": "Uu5iJ7cDLSQ8qC3ARtvh6MGJ",
+    "price": 30382,
+    "stock": 53,
+    "isActive": false
+  },
+  {
+    "name": "Organic Whole Wheat Flour",
+    "sku": "s47VtV63TmNLvzP2xYvo24VVzep41F",
+    "price": 35168,
+    "stock": 636,
+    "isActive": true
+  },
+  {
+    "name": "Fall-Themed Table Runner",
+    "sku": "o03G1PrJ01Jneub72396817Ej1v34p",
+    "price": 44013,
+    "stock": 971,
+    "isActive": true
+  },
+  {
+    "name": "Vanilla Bean Greek Yogurt",
+    "sku": "68wt6O1h807JX69HWsc",
+    "price": 5454,
+    "stock": 578,
+    "isActive": true
+  },
+  {
+    "name": "Kids' Gardening Tools Set",
+    "sku": "CL1lr9GxO21Ovoi85",
+    "price": 3966,
+    "stock": 254,
+    "isActive": true
+  },
+  {
+    "name": "Chocolate Chip Muffins",
+    "sku": "xV93FsIGwqbXsY67XyU4FV09436688",
+    "price": 35572,
+    "stock": 567,
+    "isActive": true
+  },
+  {
+    "name": "Creamy Garlic Dressing",
+    "sku": "f50g687f7578DQ1sQvZsA",
+    "price": 5873,
+    "stock": 32,
+    "isActive": true
+  },
+  {
+    "name": "Phone Screen Protector",
+    "sku": "UkNTvLC0HdQHVHLg9p4f1DB0B",
+    "price": 7612,
+    "stock": 662,
+    "isActive": true
+  },
+  {
+    "name": "Sliced Olives",
+    "sku": "0rGN5637MHCIPfzTm3VLi",
+    "price": 32262,
+    "stock": 860,
+    "isActive": false
+  },
+  {
+    "name": "Children's Educational Workbook",
+    "sku": "0dlNy6Yn29503RT6XulH",
+    "price": 31078,
+    "stock": 440,
+    "isActive": false
+  },
+  {
+    "name": "Mango Chilli Sauce",
+    "sku": "8K37ygca0kM3dvLDJga2",
+    "price": 10582,
+    "stock": 744,
+    "isActive": false
+  },
+  {
+    "name": "Video Camera",
+    "sku": "bJgsFVnT2rXsEZM",
+    "price": 4268,
+    "stock": 469,
+    "isActive": false
+  },
+  {
+    "name": "Plant-Based Protein Bars",
+    "sku": "sxD7Eqw9TPQ6KRp5O9IEwV7zpXfu",
+    "price": 31891,
+    "stock": 142,
+    "isActive": false
+  },
+  {
+    "name": "Falafel Mix",
+    "sku": "kGALg69BmnN1180azsIyz7vIvDs",
+    "price": 14731,
+    "stock": 176,
+    "isActive": false
+  },
+  {
+    "name": "Ice Cream Scoop",
+    "sku": "Ot9kIOrbvZrSg7f",
+    "price": 32422,
+    "stock": 254,
+    "isActive": false
+  },
+  {
+    "name": "Travel Pillow",
+    "sku": "mRhgisS026j9U1o4",
+    "price": 17685,
+    "stock": 867,
+    "isActive": false
+  },
+  {
+    "name": "Rice Pilaf Mix",
+    "sku": "ndrNIplA0lJnsPPqSON8VDuU2a2A",
+    "price": 12137,
+    "stock": 503,
+    "isActive": false
+  },
+  {
+    "name": "Sweet Potato & Kale Hash",
+    "sku": "7R6u4qQqlApH0YupgxkF64dbj234D",
+    "price": 24359,
+    "stock": 916,
+    "isActive": false
+  },
+  {
+    "name": "Leek and Potato Soup",
+    "sku": "MMMX5275TBxAhx4Q6W0",
+    "price": 13293,
+    "stock": 476,
+    "isActive": true
+  },
+  {
+    "name": "Ski Goggles",
+    "sku": "BO6txhScgY5uKMYi1S668d8xA6w4",
+    "price": 23905,
+    "stock": 971,
+    "isActive": false
+  },
+  {
+    "name": "Maple Bacon Popcorn",
+    "sku": "G975s6a9ocY50m6oA8j7",
+    "price": 16086,
+    "stock": 782,
+    "isActive": true
+  },
+  {
+    "name": "Yoga Wheel",
+    "sku": "0gZC42WZYgmC30xfZ0SB9k9vcu8",
+    "price": 48016,
+    "stock": 281,
+    "isActive": true
+  },
+  {
+    "name": "Natural Fruit Snacks",
+    "sku": "PX648s52Ko6geQ311S",
+    "price": 23354,
+    "stock": 984,
+    "isActive": false
+  },
+  {
+    "name": "Electric Hot Water Dispenser",
+    "sku": "21xj216hfF63hGHnby4ygX",
+    "price": 3257,
+    "stock": 73,
+    "isActive": false
+  },
+  {
+    "name": "Memory Foam Pillow",
+    "sku": "gPm8TF5i7346pkIFkdAo2g710E5B",
+    "price": 10386,
+    "stock": 658,
+    "isActive": true
+  },
+  {
+    "name": "Outdoor Inflatable Pool",
+    "sku": "Z5uE23u60Wb4H5gK8mqay",
+    "price": 38221,
+    "stock": 803,
+    "isActive": false
+  },
+  {
+    "name": "Graphic Sweatshirt",
+    "sku": "2ONp53370N18j1xOJqRPs5XV",
+    "price": 35913,
+    "stock": 405,
+    "isActive": false
+  },
+  {
+    "name": "Luxury Rolling Makeup Case",
+    "sku": "Hr3hM1mOS43M3Y4GEd5Z0G",
+    "price": 5647,
+    "stock": 31,
+    "isActive": true
+  },
+  {
+    "name": "Pumpkin Spice Granola",
+    "sku": "72ek1ne2iCa1LOmrtN",
+    "price": 29564,
+    "stock": 379,
+    "isActive": false
+  },
+  {
+    "name": "Slim Wallet",
+    "sku": "d2TxCE4sk7mAV2Ui0O",
+    "price": 27316,
+    "stock": 121,
+    "isActive": true
+  },
+  {
+    "name": "Wireless Range Extender",
+    "sku": "W7547W7N2iFwoww",
+    "price": 41170,
+    "stock": 853,
+    "isActive": true
+  },
+  {
+    "name": "Basil Pesto Pasta",
+    "sku": "X7D8SD8r8EiJ9Hbn9eWP92Isiq1WK",
+    "price": 38118,
+    "stock": 470,
+    "isActive": false
+  },
+  {
+    "name": "Eco-Friendly Beeswax Wraps",
+    "sku": "1tQAcGx91I06c4T0tpI6A",
+    "price": 4718,
+    "stock": 622,
+    "isActive": true
+  },
+  {
+    "name": "Whole Wheat Pasta",
+    "sku": "F9m4s9y8Pd76OSt0O",
+    "price": 44865,
+    "stock": 276,
+    "isActive": false
+  },
+  {
+    "name": "Motorcycle Phone Mount",
+    "sku": "0Deg43GHV92TjkffQv7xW1c366",
+    "price": 19408,
+    "stock": 684,
+    "isActive": true
+  },
+  {
+    "name": "Maple Pecan Granola",
+    "sku": "0jM0T4gKc9Md4YSIaQ9S606U91",
+    "price": 48919,
+    "stock": 448,
+    "isActive": true
+  },
+  {
+    "name": "Peanut Butter Protein Balls",
+    "sku": "A5l7GU7Yo6c1j0UDM97ufE31T4oVvV",
+    "price": 10864,
+    "stock": 998,
+    "isActive": false
+  },
+  {
+    "name": "Electric Hot Pot",
+    "sku": "yf05STw84qgaWFN442R46Z",
+    "price": 46373,
+    "stock": 988,
+    "isActive": true
+  },
+  {
+    "name": "Crispy Rice Treats",
+    "sku": "FSrqEOc6sbZLS3s3bZ4x6oh58cS4",
+    "price": 12401,
+    "stock": 179,
+    "isActive": false
+  },
+  {
+    "name": "Reusable Snack Bags",
+    "sku": "SL3f4uz08318XNqJgOT",
+    "price": 29295,
+    "stock": 67,
+    "isActive": true
+  },
+  {
+    "name": "Classic Slim Fit Shirt",
+    "sku": "znrHau483U805g4a42mHeakQi1jp",
+    "price": 36711,
+    "stock": 419,
+    "isActive": false
+  },
+  {
+    "name": "Creamy Avocado Dip",
+    "sku": "399z4J4NnmX27XHMK3",
+    "price": 23775,
+    "stock": 640,
+    "isActive": false
+  },
+  {
+    "name": "Digital Food Scale",
+    "sku": "87A74Ycu9w1uo6YXtItw31B",
+    "price": 9771,
+    "stock": 845,
+    "isActive": false
+  },
+  {
+    "name": "Salt and Pepper Grinder Set",
+    "sku": "83zApDv5SvS8s552WPAVV85H26ycv",
+    "price": 40144,
+    "stock": 690,
+    "isActive": false
+  },
+  {
+    "name": "Organic Granola Cereal",
+    "sku": "sV1bU8u5L60W6mFN3AL5gLDB5NUSt",
+    "price": 12757,
+    "stock": 750,
+    "isActive": false
+  },
+  {
+    "name": "Folding Pocket Knife",
+    "sku": "5BERjrJEOlLnrb14dMqe2maxBIA",
+    "price": 13446,
+    "stock": 153,
+    "isActive": false
+  },
+  {
+    "name": "Telescope",
+    "sku": "0EOsA0dSc83Lj4L",
+    "price": 13777,
+    "stock": 342,
+    "isActive": false
+  },
+  {
+    "name": "Classic Vanilla Fudge",
+    "sku": "d4NpmGL8f951t3W1",
+    "price": 19124,
+    "stock": 644,
+    "isActive": false
+  },
+  {
+    "name": "Cabbage",
+    "sku": "DseBeu7Xd6R0hz4BA5VK",
+    "price": 18016,
+    "stock": 391,
+    "isActive": true
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "sku": "lCE2wa7mJW62r4lkz9c",
+    "price": 28439,
+    "stock": 582,
+    "isActive": false
+  },
+  {
+    "name": "Gaming Mousepad",
+    "sku": "4lS71Qu8fvy0zw2",
+    "price": 27059,
+    "stock": 428,
+    "isActive": true
+  },
+  {
+    "name": "Car Trash Can",
+    "sku": "Hg7uR7h7Elt347tU",
+    "price": 24012,
+    "stock": 977,
+    "isActive": true
+  },
+  {
+    "name": "Electric Hot Pot",
+    "sku": "lP227Cb56O58senoTz64X3M288FFZ",
+    "price": 33735,
+    "stock": 440,
+    "isActive": true
+  },
+  {
+    "name": "Black Bean Salsa",
+    "sku": "9IU0gbwTS6FG9Tl497D",
+    "price": 32660,
+    "stock": 394,
+    "isActive": true
+  },
+  {
+    "name": "Smartphone Tripod with Remote",
+    "sku": "eYeePBekNI6Qc57VJ7Z1GRGJvv1",
+    "price": 43921,
+    "stock": 625,
+    "isActive": false
+  },
+  {
+    "name": "Pistachio Ice Cream",
+    "sku": "J8LSk9o7pejawZo1gn",
+    "price": 10356,
+    "stock": 428,
+    "isActive": true
+  },
+  {
+    "name": "Fruit and Nut Energy Bites",
+    "sku": "3960m7eF94G3AjIMRxTqH",
+    "price": 45465,
+    "stock": 964,
+    "isActive": false
+  },
+  {
+    "name": "Bamboo Toothbrush Holder",
+    "sku": "jyhI0526CvRg9fl9vnS1E8M",
+    "price": 46258,
+    "stock": 765,
+    "isActive": false
+  },
+  {
+    "name": "Honey-Balsamic Vinaigrette",
+    "sku": "y5F07X4Bp8pmq7bY",
+    "price": 32924,
+    "stock": 346,
+    "isActive": false
+  },
+  {
+    "name": "Smartwatch",
+    "sku": "k3rZr028OZqK2ZDDLDUw9f1E",
+    "price": 24143,
+    "stock": 398,
+    "isActive": false
+  },
+  {
+    "name": "Smoked Salmon",
+    "sku": "b5z8uukPya44201gK7q7868",
+    "price": 10973,
+    "stock": 380,
+    "isActive": true
+  },
+  {
+    "name": "Digital Food Thermometer",
+    "sku": "ocKxmgqZZf8F9B8tZo9g",
+    "price": 48826,
+    "stock": 755,
+    "isActive": true
+  },
+  {
+    "name": "A-Line Skirt",
+    "sku": "adDqnfr8VsZJdw3EJ",
+    "price": 48603,
+    "stock": 109,
+    "isActive": true
+  },
+  {
+    "name": "Outdoor Camping Hammock",
+    "sku": "5B3BN90E2rbovYx3Nz3Oo2ipxDLo",
+    "price": 27404,
+    "stock": 373,
+    "isActive": true
+  },
+  {
+    "name": "Fruit Medley Juice",
+    "sku": "bUPiRxFhK206ohR7X6IX",
+    "price": 16407,
+    "stock": 896,
+    "isActive": true
+  },
+  {
+    "name": "Nutty Quinoa Salad",
+    "sku": "pt5sI44VLf6J3J6R8",
+    "price": 18255,
+    "stock": 789,
+    "isActive": false
+  },
+  {
+    "name": "Kale Chips",
+    "sku": "5U6jdx862VKuaykpv8T8VU2",
+    "price": 6363,
+    "stock": 793,
+    "isActive": false
+  },
+  {
+    "name": "Yoga Mat Carrier",
+    "sku": "KKkMNOO2CBL292MX7IYoTv315Ex",
+    "price": 7316,
+    "stock": 147,
+    "isActive": true
+  },
+  {
+    "name": "Pumpkin Spice Creamer",
+    "sku": "OQ9lSL1WzT2bSDAFY7",
+    "price": 11113,
+    "stock": 495,
+    "isActive": true
+  },
+  {
+    "name": "Zesty Cilantro Lime Dressing",
+    "sku": "dTWkYR51jo48Q8Gl",
+    "price": 42159,
+    "stock": 217,
+    "isActive": true
+  },
+  {
+    "name": "Emergency Preparedness Kit",
+    "sku": "q60ZSShnt7OW6H3Vav2WiE6e1FVzXs",
+    "price": 40268,
+    "stock": 594,
+    "isActive": false
+  },
+  {
+    "name": "Spicy Tuna Rolls",
+    "sku": "WvAU08mn54tLcNJ5ju",
+    "price": 37339,
+    "stock": 61,
+    "isActive": false
+  },
+  {
+    "name": "Pine Nuts",
+    "sku": "5n04vAp8Qp7J8LZg",
+    "price": 36287,
+    "stock": 553,
+    "isActive": false
+  },
+  {
+    "name": "Apple Pie Filling",
+    "sku": "evGRQSL72YHMZxzkLUl9OFUpU1v",
+    "price": 10126,
+    "stock": 615,
+    "isActive": true
+  },
+  {
+    "name": "Zucchini",
+    "sku": "WMQyoYJ4el6eN48P9ba2dJO",
+    "price": 18408,
+    "stock": 988,
+    "isActive": true
+  },
+  {
+    "name": "Camping Chair",
+    "sku": "6LE2658CUk2g6H9YY6y3rceD",
+    "price": 46965,
+    "stock": 329,
+    "isActive": false
+  },
+  {
+    "name": "Veggie Burger Patties",
+    "sku": "iuF2N7xyJmwL3jWE83Oo1Ji091",
+    "price": 28132,
+    "stock": 30,
+    "isActive": true
+  },
+  {
+    "name": "Fire Roasted Salsa",
+    "sku": "dqjwN05uA4ibOgDEFymmzw1",
+    "price": 30005,
+    "stock": 282,
+    "isActive": false
+  },
+  {
+    "name": "Pet Travel Backpack Carrier",
+    "sku": "Nh4r3P719Qe3tp7",
+    "price": 18880,
+    "stock": 202,
+    "isActive": false
+  },
+  {
+    "name": "Scented Candles",
+    "sku": "2Mc84Bqg0EuJRiWh4k879U7W5",
+    "price": 30977,
+    "stock": 59,
+    "isActive": true
+  },
+  {
+    "name": "Chocolate Fudge Ice Cream",
+    "sku": "2ykPcZrS3gwbh3BJ77u9t4sM260K",
+    "price": 43610,
+    "stock": 211,
+    "isActive": true
+  },
+  {
+    "name": "Vegan Caesar Dressing",
+    "sku": "3YIG127j4A0198va88q7241",
+    "price": 7931,
+    "stock": 608,
+    "isActive": false
+  },
+  {
+    "name": "Wireless Earbuds Case",
+    "sku": "PTP0Kvsb9aqYHk1KQT65R8",
+    "price": 14088,
+    "stock": 628,
+    "isActive": true
+  },
+  {
+    "name": "Solar String Lights",
+    "sku": "7KaiNkDb258tEvZsM5m5OFCqYXW8",
+    "price": 19838,
+    "stock": 590,
+    "isActive": true
+  },
+  {
+    "name": "Canvas High-Top Sneakers",
+    "sku": "Xw654IKSRX4mUi9MQhqEGfO6r",
+    "price": 22368,
+    "stock": 918,
+    "isActive": false
+  },
+  {
+    "name": "Almond Milk Yogurt",
+    "sku": "M2ud4Zdal23pooeXC",
+    "price": 8498,
+    "stock": 917,
+    "isActive": false
+  },
+  {
+    "name": "Dish Rack",
+    "sku": "L3VJcX3Q6139Vjve",
+    "price": 7488,
+    "stock": 822,
+    "isActive": true
+  },
+  {
+    "name": "Window Blinds",
+    "sku": "8XKpLe3W56DeD4qndb9slk132Khxfd",
+    "price": 36930,
+    "stock": 902,
+    "isActive": false
+  },
+  {
+    "name": "Mini Air Purifier",
+    "sku": "rfH91eLI0lqxU8Q51y",
+    "price": 5908,
+    "stock": 11,
+    "isActive": false
+  },
+  {
+    "name": "Spicy Salsa Verde",
+    "sku": "GTGNIB7NYSXt06C",
+    "price": 16835,
+    "stock": 185,
+    "isActive": false
+  },
+  {
+    "name": "Wall-Mounted Spice Rack",
+    "sku": "cTIDU5D257JovP8Aq",
+    "price": 18963,
+    "stock": 582,
+    "isActive": true
+  },
+  {
+    "name": "Cotton Tote Bag Set",
+    "sku": "kPxihjqlRDRrtEg",
+    "price": 31168,
+    "stock": 150,
+    "isActive": true
+  },
+  {
+    "name": "Collapsible Camping Cup",
+    "sku": "6Maj01T0k71lZ04NWqyw3Gm",
+    "price": 44344,
+    "stock": 111,
+    "isActive": false
+  },
+  {
+    "name": "Compressible Packing Cubes",
+    "sku": "P4maWo6aXiYbZ4393jv02Qp9W",
+    "price": 47660,
+    "stock": 862,
+    "isActive": false
+  },
+  {
+    "name": "Non-Stick Baking Sheets",
+    "sku": "1zaHeRqYOmCx4z7fsLXF5mJ",
+    "price": 4081,
+    "stock": 75,
+    "isActive": true
+  },
+  {
+    "name": "Cocoa Powder",
+    "sku": "Tzbg8O5HwcI37LrWM946SlTqo",
+    "price": 13747,
+    "stock": 408,
+    "isActive": false
+  },
+  {
+    "name": "Watering Can with Nozzle",
+    "sku": "yIhVRAE3qYaW7jO7Hwa",
+    "price": 10630,
+    "stock": 326,
+    "isActive": false
+  },
+  {
+    "name": "Cocktail Shaker Set",
+    "sku": "I28CS7lPV66bCxeo4U4Z8",
+    "price": 8067,
+    "stock": 969,
+    "isActive": true
+  },
+  {
+    "name": "Salsa Verde",
+    "sku": "kPJ04KhGq2kxX5lB",
+    "price": 44101,
+    "stock": 104,
+    "isActive": false
+  },
+  {
+    "name": "Italian Meatballs",
+    "sku": "9e11R476j6pyvRN3QgG",
+    "price": 20715,
+    "stock": 340,
+    "isActive": false
+  },
+  {
+    "name": "Adjustable Garden Rake",
+    "sku": "e636Y13c38qRg94Ch",
+    "price": 2283,
+    "stock": 324,
+    "isActive": true
+  },
+  {
+    "name": "Pretzel Bites",
+    "sku": "lpeqD1GedoN3OqJa3cYek9964pFeYK",
+    "price": 3214,
+    "stock": 544,
+    "isActive": true
+  },
+  {
+    "name": "Compact Portable Grill",
+    "sku": "Ro0Ca9rbY6zvDyOuJXF8aw23r",
+    "price": 35644,
+    "stock": 154,
+    "isActive": false
+  },
+  {
+    "name": "Summer Tank Dress",
+    "sku": "02EpC8KbJ611q9M143VaQ96",
+    "price": 28464,
+    "stock": 406,
+    "isActive": true
+  },
+  {
+    "name": "Organic Blueberries",
+    "sku": "R7GM9SHIIqJnuQr",
+    "price": 30249,
+    "stock": 628,
+    "isActive": false
+  },
+  {
+    "name": "Teriyaki Chicken Skewers",
+    "sku": "87tZ90tarrhBaY4V31t136qv7QWJSx",
+    "price": 27625,
+    "stock": 514,
+    "isActive": false
+  },
+  {
+    "name": "Almond Flour Brownies",
+    "sku": "aTAP9MgjxsiWwM39AI3egrVhdHs4j",
+    "price": 34883,
+    "stock": 64,
+    "isActive": false
+  },
+  {
+    "name": "Honey Lemon Tea",
+    "sku": "bgCDgT3gj74kuITsnI5T",
+    "price": 10561,
+    "stock": 577,
+    "isActive": false
+  },
+  {
+    "name": "Cream Cheese",
+    "sku": "21Oa09KG80spdcFs",
+    "price": 37523,
+    "stock": 173,
+    "isActive": true
+  },
+  {
+    "name": "Teriyaki Chicken Skewers",
+    "sku": "jtE9E98MbHK4NG4dg5kBZ6ezC9",
+    "price": 5323,
+    "stock": 458,
+    "isActive": true
+  },
+  {
+    "name": "Pumpkin Puree",
+    "sku": "lbS9gFT4XYgD12K5o0GUtA9I7bZ36",
+    "price": 8835,
+    "stock": 555,
+    "isActive": true
+  },
+  {
+    "name": "Stainless Steel BBQ Grill Set",
+    "sku": "UTyugbBQt6j74rnW149g541",
+    "price": 5552,
+    "stock": 720,
+    "isActive": false
+  },
+  {
+    "name": "Magnetic Curtain Tiebacks",
+    "sku": "vKVO9Sy6925Z57TG",
+    "price": 10019,
+    "stock": 253,
+    "isActive": false
+  }
+]
