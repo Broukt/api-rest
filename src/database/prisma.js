@@ -1,6 +1,7 @@
 const { PrismaClient } = require("@prisma/client");
+const { env } = require("../config/env");
 let prisma;
-if (process.env.NODE_ENV === "production") prisma = new PrismaClient();
+if (env === "production") prisma = new PrismaClient();
 else {
   if (!global.prisma)
     global.prisma = new PrismaClient({ log: ["query", "warn", "error"] });
