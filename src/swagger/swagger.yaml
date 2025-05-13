@@ -1,0 +1,156 @@
+openapi: 3.0.0
+info:
+  title: API REST de Productos
+  version: 1.0.0
+  description: CRUD de productos con paginación, seguridad y caché
+servers:
+  - url: /api/v1
+    description: Servidor local (prefijo /api/v1)
+
+security:
+  - bearerAuth: []
+paths:
+  /products:
+    get:
+      summary: Listar productos (paginado)
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            default: 1
+        - in: query
+          name: limit
+          schema:
+            type: integer
+            default: 10
+      responses:
+        "200":
+          description: Lista de productos
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ProductList"
+    post:
+      summary: Crear un nuevo producto
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ProductInput"
+      responses:
+        "201":
+          description: Producto creado
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Product"
+  /products/{id}:
+    parameters:
+      - in: path
+        name: id
+        required: true
+        schema:
+          type: string
+          format: uuid
+    get:
+      summary: Obtener un producto por ID
+      responses:
+        "200":
+          description: Producto encontrado
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Product"
+        "404":
+          $ref: "#/components/responses/NotFound"
+    patch:
+      summary: Actualizar un producto
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ProductInput"
+      responses:
+        "204":
+          description: Producto actualizado (sin contenido)
+        "404":
+          $ref: "#/components/responses/NotFound"
+    delete:
+      summary: Desactivar un producto
+      responses:
+        "204":
+          description: Producto desactivado
+        "404":
+          $ref: "#/components/responses/NotFound"
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    Product:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        sku:
+          type: string
+        price:
+          type: integer
+        stock:
+          type: integer
+        active:
+          type: boolean
+    ProductInput:
+      type: object
+      properties:
+        name:
+          type: string
+        sku:
+          type: string
+        price:
+          type: integer
+        stock:
+          type: integer
+        active:
+          type: boolean
+      required: [name, sku, price, stock]
+    ProductList:
+      type: object
+      properties:
+        status:
+          type: string
+        results:
+          type: integer
+        total:
+          type: integer
+        page:
+          type: integer
+        limit:
+          type: integer
+        data:
+          type: object
+          properties:
+            products:
+              type: array
+              items:
+                $ref: "#/components/schemas/Product"
+  responses:
+    NotFound:
+      description: Recurso no encontrado
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              status:
+                type: string
+              msg:
+                type: string
