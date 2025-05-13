@@ -1,3 +1,6 @@
+const { env } = require("../config/env");
+const { logger } = require("../utils/logger");
+
 const handleSQLiteError = (err) => {
   if (err.code === "P2002") {
     // Unique constraint violation
@@ -6,7 +9,7 @@ const handleSQLiteError = (err) => {
     return {
       statusCode: 400,
       status: "fail",
-      message: `El valor ingresado ya existe en el/los campo(s): ${fields}. Por favor, utilice otro valor.`,
+      message: `The object already exists in the database. Duplicate field(s): ${fields}.`,
     };
   }
 
@@ -14,7 +17,7 @@ const handleSQLiteError = (err) => {
     return {
       statusCode: 404,
       status: "fail",
-      message: "El registro solicitado no fue encontrado.",
+      message: "The object does not exist in the database.",
     };
   }
 
@@ -22,7 +25,7 @@ const handleSQLiteError = (err) => {
     statusCode: 500,
     status: "error",
     message:
-      "Error interno del servidor al procesar una operación en la base de datos.",
+      "Server internal error while processing the request. Please try again later.",
   };
 };
 
@@ -44,10 +47,13 @@ const sendErrorProd = (err, req, res) => {
     });
   } else {
     // Errores desconocidos: sólo mensaje genérico y log en servidor
-    console.error("ERROR 💥:", err);
+    logger.error(
+      { err, url: req.originalUrl, method: req.method },
+      "Unhandled error"
+    );
     res.status(500).json({
       status: "error",
-      msg: "Algo salió mal!",
+      msg: "Something went wrong!",
     });
   }
 };
@@ -57,7 +63,7 @@ module.exports = (err, req, res, next) => {
   err.statusCode = err.statusCode || 500;
   err.status = err.status || "error";
 
-  if (process.env.NODE_ENV === "development") {
+  if (env === "development") {
     sendErrorDev(err, req, res);
   } else {
     // Clonamos para no mutar el error original
