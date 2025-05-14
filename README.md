@@ -77,4 +77,11 @@ npm run seed
 
 ## Despliegue
 
-Esta aplicación se encuentra desplegada con su respectiva configuración en el siguiente link:**https://api-rest-23q4.onrender.com**
+Esta aplicación se encuentra desplegada con su respectiva configuración en el siguiente link: **https://api-rest-23q4.onrender.com**
+
+
+## Swagger y Postman
+
+Para la revisión de las operaciones del servidor se puede ocupar la colección exportada de Postman, o, alternativamente (sólo en un entorno local), acceder a la siguiente URL: **http://localhost:3000/api-docs**.
+
+Para ambos casos es necesario un token de autenticación el cual se define en la variable **token** en la colección de Postman y en la pestaña **Authorize** para Swagger.
