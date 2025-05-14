@@ -9,10 +9,18 @@ servers:
 
 security:
   - bearerAuth: []
+
+tags:
+  - name: Products
+    description: Operaciones relacionadas con productos
 paths:
   /products:
+    tags:
+      - Products
     get:
       summary: Listar productos (paginado)
+      tags:
+        - Products
       parameters:
         - in: query
           name: page
@@ -33,6 +41,8 @@ paths:
                 $ref: "#/components/schemas/ProductList"
     post:
       summary: Crear un nuevo producto
+      tags:
+        - Products
       requestBody:
         required: true
         content:
@@ -56,6 +66,8 @@ paths:
           format: uuid
     get:
       summary: Obtener un producto por ID
+      tags:
+        - Products
       responses:
         "200":
           description: Producto encontrado
@@ -67,6 +79,8 @@ paths:
           $ref: "#/components/responses/NotFound"
     patch:
       summary: Actualizar un producto
+      tags:
+        - Products
       requestBody:
         required: true
         content:
@@ -80,6 +94,8 @@ paths:
           $ref: "#/components/responses/NotFound"
     delete:
       summary: Desactivar un producto
+      tags:
+        - Products
       responses:
         "204":
           description: Producto desactivado
